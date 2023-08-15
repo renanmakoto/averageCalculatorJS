@@ -4,7 +4,7 @@
 
 <p align="center">You may access the application by clicking on the link below:</p>
 
-<p align="center" target="_blank">https://renanmakoto.github.io/averageCalculatorJS//</p>
+<a align="center" target="_blank">https://renanmakoto.github.io/averageCalculatorJS//</a>
 
 
 <div align="center">
